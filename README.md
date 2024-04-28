@@ -1,8 +1,7 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Saurabh Kumar</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<img align ="right" alt= "coding" width ="400" src ="https://www.google.com/url?sa=i&url=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&psig=AOvVaw3xiOm_o6aPCSd9HU5-rQJk&ust=1714385650376000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNiRtLDW5IUDFQAAAAAdAAAAABAE">
+<img align ="right" alt= "coding" width ="400" src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumar02saurabh&label=Profile%20views&color=0e75b6&style=flat" alt="kumar02saurabh" /> </p>
 
@@ -25,4 +24,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kumar02saurabh&show_icons=true&locale=en" alt="kumar02saurabh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumar02saurabh&" alt="kumar02saurabh" /></p>
-
