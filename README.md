@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumar02saurabh&label=Profile%20views&color=0e75b6&style=flat" alt="kumar02saurabh" /> </p>
 
-- 🌱 I’m currently learning ** Advance C Programming and C++ with DSA **
+- 🌱 I’m currently learning **C++ with DSA and Python **
 
 - 📫 How to reach me **kumar02saurabh2001@gmail.com**
 
